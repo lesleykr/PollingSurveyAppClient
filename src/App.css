@@ -1,0 +1,85 @@
+
+.App-header {
+  background-color: white;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(7, 7, 7);
+}
+
+
+#checkbox-3 {
+  transform: scale(0.5);
+}
+
+.sub-title {
+  text-align: center;
+}
+
+.form-control:valid {
+  background-color: rgb(211, 209, 209);
+  color: black;
+}
+
+.small-text {
+  font-size: 20px;
+}
+
+Button.btn-submit {
+  background-color: #6006B5;
+  color: white;
+  width: 240px;
+  height: 50px;
+  border-radius: 30px;
+}
+
+Button.btn-register {
+  background-color: #E7F58B;
+  color: black;
+  width: 280px;
+  height: 50px;
+  border-radius: 30px;
+}
+
+.welcome-title {
+  padding-bottom: 50px;
+}
+
+main.container {
+  height: 90vh;
+}
+
+.footer.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+}
+
+.admin-initials {
+  border-radius: 50%;
+  padding: 30px;
+  background-color: lightgray;
+  display: inline-block;
+}
+
+.admin-page-font-size {
+  font-size: 20px;
+}
+
+
+footer.footer {
+  background-color: white;
+}
+
+.margin_top {
+  margin-top: 30px;
+}
+
