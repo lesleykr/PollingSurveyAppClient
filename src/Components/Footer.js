@@ -11,7 +11,7 @@ class Footer extends Component {
             <footer className="footer">
   <div className="content has-text-centered">
     <p>
-    @{currentYear} ShiTech, Inc
+    @{currentYear} Apex Tech, Inc
     </p>
   </div>
 </footer>

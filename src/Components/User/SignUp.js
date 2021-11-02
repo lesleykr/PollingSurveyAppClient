@@ -23,7 +23,7 @@ const SignUp = (props) => {
     e.preventDefault();
     console.log("button clicked")
 
-    const url = `${API_URL}/Account/Register`;
+    const url = `${API_URL}/Help/Api/POST-api-Account-Register`;
     // const baseUrl = "http://pollsurveyapp-env.eba-jk6fyvwy.us-east-2.elasticbeanstalk.com/Api/Account/Register";
 
     const data = {
@@ -37,7 +37,7 @@ const SignUp = (props) => {
     console.log(data)
 
     const config = {
-      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",   
     }
 
   

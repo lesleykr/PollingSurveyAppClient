@@ -3,7 +3,7 @@
 }
 
 button.btn.btn-default.btn-lg.btn-submit.mb-2.btn-secondary{
-    background-color: #0AA7DB;
+    background-color: #4A469B;
     border: none;
 }
 
@@ -37,7 +37,7 @@ button.btn.btn-default.btn-lg.btn-submit.mb-2.btn-secondary{
 }
 
 .input-field:focus {
-  border: 2px solid #0AA7DB;
+  border: 2px solid #4A469B;
 }
 
 .sub-title{

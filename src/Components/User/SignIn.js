@@ -18,9 +18,9 @@ const SignIn = (props) => {
     e.preventDefault();
     console.log("button clicked")
 
-    const url = "https://localhost:44303/token";
+    // const url = "https://localhost:44303/token";
 
-    // const url = "https://pollsurveyapp-env.eba-jk6fyvwy.us-east-2.elasticbeanstalk.com/token";
+    const url = "https://pollsurveyapp-env.eba-jk6fyvwy.us-east-2.elasticbeanstalk.com/token";
 
     //add header to axios application/x-www-form-urlencoded
     //send grant_type with data value as password

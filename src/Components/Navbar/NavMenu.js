@@ -21,7 +21,7 @@ const NavMenu = (props) => {
 
   return (
     <div>
-    <IconContext.Provider value = {{ color: "#0AA7DB" }}>
+    <IconContext.Provider value = {{ color: "#4A469B" }}>
   
       <div className ="navbar">
         <Link to = "#" className='menu-bars'>
