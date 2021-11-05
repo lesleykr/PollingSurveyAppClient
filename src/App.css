@@ -77,16 +77,6 @@ main.container {
 
 footer.footer {
   background-color: white;
-  /* Vector */
-
-position: absolute;
-left: 28.15%;
-right: 63.85%;
-top: 92.12%;
-bottom: 4.19%;
-
-background: #000000;
-
 }
 
 .margin_top {

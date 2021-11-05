@@ -99,7 +99,7 @@ function App () {
       
             <Route exact path="/signup" component={SignUp} />
 
-            <Route exact path="/forogotPassword" component={ForgotPassword} />
+            <Route exact path="/forgotPassword" component={ForgotPassword} />
             
             <Route exact path = "/logout" component = {LogOut} />
 
